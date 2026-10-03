@@ -1,0 +1,8 @@
+[
+  {"country":"United States","scholarship_name":"Fulbright Foreign Student Program","provider":"U.S. Department of State","level":"MS/PhD","requirements":"CV, SOP, Referees, IELTS","funding":"Tuition, stipend, travel, health insurance","official_link":"https://foreign.fulbrightonline.org"},
+  {"country":"United Kingdom","scholarship_name":"Chevening Scholarships","provider":"UK FCDO","level":"MS","requirements":"CV, SOP, Referees","funding":"Tuition, stipend, travel","official_link":"https://www.chevening.org"},
+  {"country":"United Kingdom","scholarship_name":"Commonwealth Scholarships","provider":"Commonwealth Scholarship Commission","level":"MS/PhD","requirements":"CV, SOP, Proposal, Referees","funding":"Tuition, stipend, travel","official_link":"https://cscuk.fcdo.gov.uk"},
+  {"country":"Germany","scholarship_name":"DAAD Scholarships","provider":"DAAD","level":"MS/PhD","requirements":"CV, SOP, Proposal, Referees","funding":"Varies by programme","official_link":"https://www.daad.de/en/study-and-research-in-germany/scholarships/"},
+  {"country":"Japan","scholarship_name":"MEXT Scholarship","provider":"Government of Japan","level":"MS/PhD","requirements":"CV, Proposal, Referees","funding":"Tuition, stipend, travel","official_link":"https://www.studyinjapan.go.jp/en/"},
+  {"country":"Hungary","scholarship_name":"Stipendium Hungaricum","provider":"Tempus Public Foundation","level":"MS/PhD","requirements":"CV, SOP, Referees","funding":"Tuition, stipend, accommodation contribution","official_link":"https://stipendiumhungaricum.hu"}
+]
